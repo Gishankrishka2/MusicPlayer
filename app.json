@@ -27,6 +27,10 @@
         "description": "Your telegram bot token, get it from https://t.me/botfather",
         "required": false
       },
+      "BOT_USERNAME": {
+        "description": "Your telegram bot Username, Without @",
+        "required": false
+      },
       "SESSION": {
         "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
         "required": true
